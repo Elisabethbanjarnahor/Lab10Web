@@ -54,10 +54,10 @@ Halaman edit memanggil data berdasar NIM, kemudian disimpan melalui proses_edit.
 
 ![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/b165c5ee69d9b0f7506bb5a0b86184ebc9eb4e9d/lab10web/Screenshot%202025-12-05%20094513.png)
 
-![proses edit]()
-
 # ⭐ Delete Data (Delete)
 Menghapus data mahasiswa melalui delete_mahasiswa.php.
+
+![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/5c4e4942fcbe388246c7c0e715c99a8696b694ae/lab10web/Screenshot%202025-12-05%20094622.png)
 
 # ⭐ 11. Struktur Folder Proyek
 ```
