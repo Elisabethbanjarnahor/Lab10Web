@@ -16,7 +16,20 @@ Pada tahap ini dibuat file mobil.php berisi class:
 
 # ⭐ Class Form (Modularisasi)
 File form.php berisi class untuk membuat form secara dinamis dengan method:
-    addField()
-    displayForm()
+   - addField()
+   - displayForm()
+
+![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/43ac278069d471e2940794878f7d20e192e6eea1/lab10web/Screenshot%202025-12-05%20205515.png)
+
+# ⭐ Implementasi Form (form_input.php)
+File ini memanggil class Form dari form.php lalu menampilkan form input berisi:
+   - NIM
+   - Nama
+   - Alamat
 
 ![foto]()
+
+
+
+
+
