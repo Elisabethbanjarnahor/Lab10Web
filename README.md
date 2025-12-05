@@ -36,7 +36,53 @@ File database.php berisi class Database lengkap dengan method:
    - insert()
    -update() (SUDAH diperbaiki)
    - delete()
+
+![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/d63e59932b418b54b4bbbd0658f2ec80705f72e6/lab10web/Screenshot%202025-12-05%20205709.png)
+
+# ⭐ Halaman Dashboard
+Dashboard menampilkan jumlah total mahasiswa serta card informasi.
 ![foto]()
 
+# ⭐ Menampilkan Semua Data Mahasiswa (Read)
+Menggunakan file list_mahasiswa.php untuk menampilkan seluruh data dalam bentuk tabel.
+![foto]()
+
+# ⭐ Input Data (Create)
+Form input mahasiswa → memproses ke proses_input.php → insert ke database.
+![foto]()
+
+![foto proses]()
+
+# ⭐ Edit Data (Update)
+Halaman edit memanggil data berdasar NIM, kemudian disimpan melalui proses_edit.php.
+
+![foto]()
+
+![proses edit]()
+
+# ⭐ Delete Data (Delete)
+Menghapus data mahasiswa melalui delete_mahasiswa.php.
+
+# ⭐ 11. Struktur Folder Proyek
+```
+lab10_php_oop/
+│
+├── mobil.php
+├── form.php
+├── form_input.php
+├── database.php
+├── layout.php
+├── dashboard.php
+├── list_mahasiswa.php
+├── edit_mahasiswa.php
+├── proses_input.php
+├── proses_edit.php
+├── delete_mahasiswa.php
+└── config.php
+```
+
+# Kesimpulan
+Pada praktikum ini berhasil dibuat: ✔ Penerapan OOP (Class + Object) ✔ Class Form (Modularisasi) ✔ Class Database dengan CRUD ✔ Implementasi CRUD (Create, Read, Update, Delete) ✔ Template layout Bootstrap yang konsisten (navbar, sidebar, footer) ✔ Tampilan dashboard dan halaman data mahasiswa yang rapi & modern (pink theme)
+Semua fungsi bekerja dengan baik tanpa error.
 
 
