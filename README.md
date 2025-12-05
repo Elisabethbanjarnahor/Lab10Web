@@ -41,7 +41,7 @@ File database.php berisi class Database lengkap dengan method:
 
 # ⭐ Halaman Dashboard
 Dashboard menampilkan jumlah total mahasiswa serta card informasi.
-![foto]()
+![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/75984a36b27220b6a4a2c272368b0a925c8ffd6b/lab10web/Screenshot%202025-12-05%20094338.png)
 
 # ⭐ Menampilkan Semua Data Mahasiswa (Read)
 Menggunakan file list_mahasiswa.php untuk menampilkan seluruh data dalam bentuk tabel.
