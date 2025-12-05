@@ -47,7 +47,7 @@ Dashboard menampilkan jumlah total mahasiswa serta card informasi.
 Menggunakan file list_mahasiswa.php untuk menampilkan seluruh data dalam bentuk tabel.
 ![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/dfe35504f10ab4228657ce42cbe366f868be29be/lab10web/Screenshot%202025-12-05%20210135.png)
 
-![foto proses]()
+![foto proses](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/59eb7d29f6ff1901417877acbdfb292f5442d647/05-output-proses-input..png)
 
 # ⭐ Edit Data (Update)
 Halaman edit memanggil data berdasar NIM, kemudian disimpan melalui proses_edit.php.
