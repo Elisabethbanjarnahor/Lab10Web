@@ -27,9 +27,16 @@ File ini memanggil class Form dari form.php lalu menampilkan form input berisi:
    - Nama
    - Alamat
 
+![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/7168e246223d5898b0f082e63f378e51acf4efd5/03-output-form-input..png)
+
+# ⭐ Class Database (CRUD Modular)
+File database.php berisi class Database lengkap dengan method:
+   - query()
+   - get()
+   - insert()
+   -update() (SUDAH diperbaiki)
+   - delete()
 ![foto]()
-
-
 
 
 
