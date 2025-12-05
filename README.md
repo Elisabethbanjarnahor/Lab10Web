@@ -11,4 +11,12 @@ Pada tahap ini dibuat file mobil.php berisi class:
    - Atribut: warna, merk, harga
    - Method: gantiWarna(), tampilWarna()
    - 2 objek mobil diciptakan dan dilakukan perubahan warna.
+     
+![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/7bc8241240853b3997f6c72f73936ebeba25c47d/lab10web/Screenshot%202025-12-05%20091135.png)
+
+# ⭐ Class Form (Modularisasi)
+File form.php berisi class untuk membuat form secara dinamis dengan method:
+    addField()
+    displayForm()
+
 ![foto]()
