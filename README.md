@@ -45,7 +45,7 @@ Dashboard menampilkan jumlah total mahasiswa serta card informasi.
 
 # ⭐ Menampilkan Semua Data Mahasiswa (Read)
 Menggunakan file list_mahasiswa.php untuk menampilkan seluruh data dalam bentuk tabel.
-![foto]()
+![foto](https://github.com/Elisabethbanjarnahor/Lab10Web/blob/dfe35504f10ab4228657ce42cbe366f868be29be/lab10web/Screenshot%202025-12-05%20210135.png)
 
 # ⭐ Input Data (Create)
 Form input mahasiswa → memproses ke proses_input.php → insert ke database.
